@@ -1,7 +1,7 @@
 # Kotlin by DroidOs
 --------------- Learning and Coding in Kotlin language -----------------
 This is an example to practice Kotlin language which is a new thing for the programmer. The programmer have an intention to share this knowledge for learners to improve and develop their Kotlin skills. Hopefully, the learners will be enjoy in this example.
-<p>\n</p>
+
 # Unit 1: Kotlin in basic
 ```
   1. Kotlin - Hello World
@@ -12,14 +12,14 @@ This is an example to practice Kotlin language which is a new thing for the prog
   6. Kotlin - Variables
   7. Kotlin - System input (Scanner and readLine)
 ```
-<p>\n</p>
+
 # Unit 2: Operator and Control flows
 ```
   1. Kotlin - Operator
   2. Kotlin - Condition
   3. Kotlin - Looping
 ```
-<p>\n</p>
+
 # Unit 3: Array, String and Number
 ```
   1. Kotlin - Pair and Triple 
