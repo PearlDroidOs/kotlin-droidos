@@ -1,5 +1,6 @@
 # Kotlin by DroidOs
---------------- Learning and Coding in Kotlin language -----------------
+---------------------------------- Learning and Coding in Kotlin language ------------------------------------
+
 This is an example to practice Kotlin language which is a new thing for the programmer. The programmer have an intention to share this knowledge for learners to improve and develop their Kotlin skills. Hopefully, the learners will be enjoy in this example.
 
 # Unit 1: Kotlin in basic
