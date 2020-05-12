@@ -3,6 +3,8 @@ package unit3.array.string.number
 /**
  * Description: String and related methods
  *
+ * CREATED BY Pearl DroidOs
+ * REFERENCE FORM Hyperskill | พัฒนา ​Mobile App บน ระบบ Android ด้วย Kotlin | Udemy course
  */
 fun main(args: Array<String>) {
 
