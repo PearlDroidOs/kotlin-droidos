@@ -157,4 +157,6 @@ fun main(args: Array<String>) {
 
     decimalFormat.applyPattern("000.000")
     val str6 = decimalFormat.format(12.12)      //012.120
+
+    //Test
 }
