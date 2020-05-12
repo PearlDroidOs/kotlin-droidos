@@ -3,7 +3,7 @@
 
 This is an example to practice Kotlin language which is a new thing for the programmer. The programmer have an intention to share this knowledge for learners to improve and develop their Kotlin skills. Hopefully, the learners will be enjoy in this example.
 
-# Unit 1: Kotlin in basic
+### Unit 1: Kotlin in basic
 ```
   1. Kotlin - Hello World
   2. Kotlin - Keywords
@@ -14,14 +14,14 @@ This is an example to practice Kotlin language which is a new thing for the prog
   7. Kotlin - System input (Scanner and readLine)
 ```
 
-# Unit 2: Operator and Control flows
+### Unit 2: Operator and Control flows
 ```
   1. Kotlin - Operator
   2. Kotlin - Condition
   3. Kotlin - Looping
 ```
 
-# Unit 3: Array, String and Number
+### Unit 3: Array, String and Number
 ```
   1. Kotlin - Pair and Triple 
   2. Kotlin - Array
