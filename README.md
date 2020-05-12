@@ -26,6 +26,7 @@ This is an example to practice Kotlin language which is a new thing for the prog
   1. Kotlin - Pair and Triple 
   2. Kotlin - Array
   3. Kotlin - String
+  4. Kotlin - Number
 ```  
   
   
