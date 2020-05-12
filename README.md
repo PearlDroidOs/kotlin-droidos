@@ -28,5 +28,19 @@ This is an example to practice Kotlin language which is a new thing for the prog
   3. Kotlin - String
   4. Kotlin - Number
 ```  
+
+## Unit 4: Function and Lambda
+```
+  1. Kotlin - Fundamental Function
+  2. Kotlin - Single Expression
+  3. Kotlin - Exit From Function
+  4. Kotlin - Function With Extent
+  5. Kotlin - Argument And Parameter
+  6. Kotlin - Default Value In parameter
+  7. Kotlin - Variable Argument (vararg)
+  8. Kotlin - Other Parameters With Functions (Tips)
+  9. Kotlin - Overload Function Or Method
+  10.Kotlin - Lambda Expression
+```  
   
   
