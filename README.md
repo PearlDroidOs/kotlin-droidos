@@ -50,4 +50,15 @@ This is an example to practice Kotlin language which is a new thing for the prog
   3. Kotlin - Try And Catch
 ```
 
-
+## Unit 6: Class and Object
+```
+  1. Kotlin - Class And Instance
+  2. Kotlin - Class And Method
+  3. Kotlin - Class And Property
+  4. Kotlin - Get | Set | Backing Field
+  5. Kotlin - Constructor | Init
+  6. Kotlin - Private Modifier | Lateinit
+  7. Kotlin - Companion Object
+  8. Kotlin - Enum Class
+  9. Kotlin - Apply Function
+```
