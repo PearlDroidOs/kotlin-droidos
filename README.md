@@ -43,4 +43,11 @@ This is an example to practice Kotlin language which is a new thing for the prog
   10.Kotlin - Lambda Expression
 ```  
   
-  
+## Unit 5: Null safety and Exception
+```
+  1. Kotlin - Null Characteristics
+  2. Kotlin - Nullable With Functions
+  3. Kotlin - Try And Catch
+```
+
+

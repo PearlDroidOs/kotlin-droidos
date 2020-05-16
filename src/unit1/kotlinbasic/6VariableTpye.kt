@@ -121,7 +121,10 @@ fun main(args: Array<String>) {
 
     /**
      * ================= Change type ======================
+     * If values are not sure to transform --> Use .toIntOrNull()/ .toDoubleOrNull()/ .toFloatOrNull()/ .toXxxOrNull()
+     *
      */
+
     val cByte: Byte = 100
     val cInt: Int = cByte.toInt()
 
@@ -132,6 +135,7 @@ fun main(args: Array<String>) {
     val cDouble: Double = cInt2.toDouble()  //249.0
 
     val cInt3 = "1234".toInt()
+
     //val cInt4 = "1234.5".toInt() //Error case when you run because of '.'
     val cInt5 = "1234.5".toDouble().toInt() //1234 - not error case
 

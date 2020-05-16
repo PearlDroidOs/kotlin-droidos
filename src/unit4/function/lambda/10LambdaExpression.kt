@@ -9,6 +9,8 @@ import kotlin.math.pow
  * [Variable]:[     Type      ] = {[Parameters] -> [Body]}
  * val add: (Int, Int) -> Int = { a:Int, b:Int -> a+b}
  *
+ * CREATED BY Pearl DroidOs
+ * REFERENCE FORM Hyperskill | พัฒนา ​Mobile App บน ระบบ Android ด้วย Kotlin | Udemy course
  */
 fun main() {
 
