@@ -7,6 +7,9 @@ package unit6.`class`.`object`
  * • Primary Constructor with property
  * • Primary Constructor with parameter
  * • Secondary Constructor
+ *
+ * CREATED BY Pearl DroidOs
+ * REFERENCE FORM Hyperskill | พัฒนา ​Mobile App บน ระบบ Android ด้วย Kotlin | Udemy course
  */
 
 

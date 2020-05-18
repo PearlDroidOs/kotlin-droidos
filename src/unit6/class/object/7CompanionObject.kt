@@ -1,5 +1,15 @@
 package unit6.`class`.`object`
 
+/**
+ * Description - Companion Object
+ * Can use with methods and properties
+ * Cannot use with constructor
+ * Can directly use methods and properties without initialize instance
+ * ====================================================================
+ *
+ * CREATED BY Pearl DroidOs
+ * REFERENCE FORM Hyperskill | พัฒนา ​Mobile App บน ระบบ Android ด้วย Kotlin | Udemy course
+ */
 class Circle5 {
     companion object {
         var PI: Double = 3.14

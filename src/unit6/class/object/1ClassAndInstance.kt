@@ -9,6 +9,8 @@ package unit6.`class`.`object`
  *     (Methods and Property)
  * }
  *
+ * CREATED BY Pearl DroidOs
+ * REFERENCE FORM Hyperskill | พัฒนา ​Mobile App บน ระบบ Android ด้วย Kotlin | Udemy course
  */
 class Person2{
     //...

@@ -62,3 +62,16 @@ This is an example to practice Kotlin language which is a new thing for the prog
   8. Kotlin - Enum Class
   9. Kotlin - Apply Function
 ```
+
+## Unit 7: Inheritance and Interface
+```
+  1. Kotlin - Inheritance Fundamentals
+  2. Kotlin - Inheritance And Constructor
+  3. Kotlin - Override On Subclass
+  4. Kotlin - Private And Protected Modifiers
+  5. Kotlin - Abstract Class
+  6. Kotlin - Interface
+  7. Kotlin - Object Expression
+  8. Kotlin - Is And !Is
+  9. Kotlin - Cast Operators [ as , as? ]
+```

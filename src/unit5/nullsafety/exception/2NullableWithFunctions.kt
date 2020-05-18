@@ -1,5 +1,11 @@
 package unit5.nullsafety.exception
 
+/**
+ * Description - Understand on how to use Nullable in function or method
+ *
+ * CREATED BY Pearl DroidOs
+ * REFERENCE FORM Hyperskill | พัฒนา ​Mobile App บน ระบบ Android ด้วย Kotlin | Udemy course
+ */
 fun main() {
 
     println(month(0))

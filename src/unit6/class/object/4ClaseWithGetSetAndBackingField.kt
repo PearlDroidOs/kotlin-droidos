@@ -6,6 +6,9 @@ import java.text.DecimalFormat
  * =========== Get/Set And Backing Field =================
  * set{}        : for receiving a value from outside class
  * get{}        : for sending a value from inside the class to outside
+ *
+ * CREATED BY Pearl DroidOs
+ * REFERENCE FORM Hyperskill | พัฒนา ​Mobile App บน ระบบ Android ด้วย Kotlin | Udemy course
  */
 class BankAccount {
     val accountName: String = "Peter Plan"

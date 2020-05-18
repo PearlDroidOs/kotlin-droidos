@@ -2,7 +2,10 @@ package unit6.`class`.`object`
 
 
 /**
- * Description on Class with declaring properties
+ * Description about Class with declaring properties
+ *
+ * CREATED BY Pearl DroidOs
+ * REFERENCE FORM Hyperskill | พัฒนา ​Mobile App บน ระบบ Android ด้วย Kotlin | Udemy course
  */
 class Person{
     //These are a property of Person class

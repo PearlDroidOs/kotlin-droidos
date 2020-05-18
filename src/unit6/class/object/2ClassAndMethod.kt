@@ -1,7 +1,10 @@
 package unit6.`class`.`object`
 
 /**
- * Description on Class with declaring methods
+ * Description about Class with declaring methods
+ *
+ * CREATED BY Pearl DroidOs
+ * REFERENCE FORM Hyperskill | พัฒนา ​Mobile App บน ระบบ Android ด้วย Kotlin | Udemy course
  */
 class Calculator {
     //Solution 1

@@ -14,6 +14,9 @@ import kotlin.math.PI
  * lateinit or Late-initialized property
  * Initialize value later but cannot set in Primitive Type such as Int/ Double/ Float/ Long/ Boolean/ Char etc.
  * 'String' can be used by lateinit in a property
+ *
+ * CREATED BY Pearl DroidOs
+ * REFERENCE FORM Hyperskill | พัฒนา ​Mobile App บน ระบบ Android ด้วย Kotlin | Udemy course
  */
 
 /**

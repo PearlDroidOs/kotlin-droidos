@@ -8,6 +8,9 @@ package unit6.`class`.`object`
  *      member1
  *      member2
  * }
+ *
+ * CREATED BY Pearl DroidOs
+ * REFERENCE FORM Hyperskill | พัฒนา ​Mobile App บน ระบบ Android ด้วย Kotlin | Udemy course
  */
 enum class Direction {
     NORTH, EAST, SOUTH, WEST
