@@ -75,3 +75,16 @@ This is an example to practice Kotlin language which is a new thing for the prog
   8. Kotlin - Is And !Is
   9. Kotlin - Cast Operators [ as , as? ]
 ```
+
+## Unit 8: Generic and Collection
+```
+  1. Kotlin - Generic Classes
+  2. Kotlin - Generic Functions
+  3. Kotlin - Range Of Generic Tpye
+  4. Kotlin - Generic Tpye By 'in' And 'out'
+  5. Kotlin - Array With Generic
+  6. Kotlin - Collection Lists
+  7. Kotlin - Collection Sets
+  8. Kotlin - Collection Map
+  9. Kotlin - Collection Lambda
+```
