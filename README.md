@@ -52,7 +52,7 @@ This is an example to practice Kotlin language which is a new thing for the prog
 
 ## Unit 6: Class and Object
 ```
-  1. Kotlin - Class And Instance
+  1. Kotlin - Class , Instance and Nested or Inner Class
   2. Kotlin - Class And Method
   3. Kotlin - Class And Property
   4. Kotlin - Get | Set | Backing Field

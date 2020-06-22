@@ -25,6 +25,34 @@ class Car{
 }
 
 /**
+ * Nested Class
+ */
+class Outer{
+    var a: Int = 0
+
+    class Nested{
+        fun functionInNested(){
+
+        }
+    }
+}
+
+/**
+ * Inner Class
+ * be able to access Outer2's variable
+ */
+class Outer2{
+    var a: Int = 0
+
+    inner class Inner{
+        var b:Int = a
+        fun functionInNested(){
+
+        }
+    }
+}
+
+/**
  * Calling a class to create instance
  */
 fun main(){
@@ -37,4 +65,8 @@ fun main(){
 
     //Solution 3
     val car:Car = Car()
+
+
+    //Nested Class - calling
+    Outer.Nested().functionInNested()
 }

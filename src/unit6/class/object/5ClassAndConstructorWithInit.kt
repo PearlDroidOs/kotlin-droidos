@@ -99,6 +99,34 @@ class Circle3(var radius: Int, val PI: Double = 3.14159) {
     }
 }
 
+/**
+ * ================= Extra tips - constructor ===================
+ */
+class Bicycle constructor(speed: Int, gear: Int) {
+    private var speed: Int = 0
+    private var gear: Int = 0
+    private var wheels:Int = 0
+
+    init {
+        this.speed = speed
+        this.gear = gear
+    }
+
+    constructor(speed: Int, gear: Int, wheels: Int): this(speed,gear){
+        this.speed = speed
+        this.gear = gear
+        this.wheels = wheels
+    }
+
+    fun speedUp(){
+        //TODO : Do something
+    }
+
+    fun changeGear(){
+        //TODO : DO something
+    }
+}
+
 fun main() {
     /**
      * ========= Calling - Primary Constructor with property ============
